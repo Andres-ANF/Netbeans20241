@@ -8,7 +8,7 @@ package ejmplogit;
  *
  * @author Usuario
  */
-s
+
 public class EjemploGit {
 
     /**
@@ -19,6 +19,7 @@ public class EjemploGit {
         System.out.println("Yo que c");
         System.out.println("Me la pela");
         int b = 5;
+      System.out.println("Hola  :)");
     }
     
 }
